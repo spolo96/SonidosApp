@@ -8,5 +8,4 @@ Click or push any animal with the "play" button to play the animal's specific so
 ## Further notes
 
 * This is my first mobile app made with Ionic. 
-* The simplistic way of dealing with the functions here made it an excellent approach vs React Native. 
-* A same application will be made but in React Native. 
+* The simplistic way of dealing with the functions here made it an excellent approach compared to React Native. 
